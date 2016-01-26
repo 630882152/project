@@ -1,1 +1,1 @@
-I am tencent. This is our first commit.
+I am tencent QQ. This is our first commit.
